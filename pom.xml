@@ -10,7 +10,9 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>taco-cloud</artifactId>
+	<!-- 打包为jar包 -->
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>taco-cloud</name>
 	<description>Taco Cloud project for Spring Boot</description>
 
